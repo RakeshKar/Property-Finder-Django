@@ -1,0 +1,16 @@
+# Django and Python ignores
+__pycache__/
+*.pyc
+*.pyo
+*.sqlite3
+
+# Virtual environment
+env/
+venv/
+myenv/
+
+# VSCode settings
+.vscode/
+
+# Secret settings
+.env
