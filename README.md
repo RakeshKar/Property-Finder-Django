@@ -1,4 +1,4 @@
-# Location-Based Real Estate Website
+# House Finder Website
 
 This is a website made using Django for the backend and React for the frontend. It is for locating houses for buy/sell/rent. It was inspired and done exactly from this course: https://www.udemy.com/course/django-react-build-a-location-based-real-estate-website/
 
